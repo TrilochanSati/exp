@@ -1,4 +1,4 @@
-#Program to retrun days from birth of date.
+#Program to return days from birth of date.
 from datetime import date
 
 
