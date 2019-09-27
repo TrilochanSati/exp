@@ -1,4 +1,4 @@
-#Program to retrun days from birth of data.
+#Program to retrun days from birth of date.
 from datetime import date
 
 
